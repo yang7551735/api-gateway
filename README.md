@@ -1,5 +1,5 @@
-3scale	https://www.3scale.net/api-management/
-akana	https://www.akana.com/solutions/api-gateway
+| 3scale	| https://www.3scale.net/api-management/ |
+| akana	| https://www.akana.com/solutions/api-gateway |
 ApiAxle	http://apiaxle.com/
 Apigee	https://apigee.com/
 Beluga（中文）	https://github.com/restran/api-gateway
